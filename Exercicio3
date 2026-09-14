@@ -1,0 +1,9 @@
+public class Exercicio3 {
+    public static void main(String[] args) {
+        //varias mensagens na tela
+        String nome = "Daniel";
+        System.out.println("Olá meu nome é " + nome);
+        System.out.println("Java é divertido");
+        System.out.println("Tenha um bom dia!");
+    }
+}
