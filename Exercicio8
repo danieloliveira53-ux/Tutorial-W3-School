@@ -1,0 +1,10 @@
+public class Exercicio9 {
+    public static void main(String[] args) {
+        //APLICANDO A VARIAVEL BOLEAN
+        boolean cruzeiroMelhorDoMundo = true;
+        boolean galomelhorDoMundo = false;
+        System.out.println("O time é o melhor do mundo " + cruzeiroMelhorDoMundo);
+        System.out.println("O time é o melhor do mundo " + galomelhorDoMundo);
+
+    }
+}
