@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Exercicio7 {
+    public static void main(String[] args) {
+        //Tipos de variaveis
+        String nome = "Daniel";
+        int idade = 36;
+        double altura = 1.69;
+        double peso = 85.50;
+        System.out.println("Meu nome é " + nome);
+        System.out.println("Minha idade é " + idade);
+        System.out.println("Meu peso é " + peso);
+
+
+    }
+}
