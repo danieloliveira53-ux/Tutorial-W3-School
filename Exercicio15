@@ -1,0 +1,14 @@
+public class Exercicio16 {
+    public static void main(String[] args) {
+        //Desafio: Tome uma decisão usando as regras "If" e "Else".
+
+
+        int idade = 36;
+        if (idade>= 18) {
+            System.out.println("Parabens você já pode ir preso!");
+        }
+        else{
+            System.out.println("você ainda não pode ser preso!");
+        }
+    }
+}
