@@ -1,0 +1,41 @@
+   public static void main(String[] args) {
+        //Aplicação  iF e ELSE
+
+        int x = 30;
+        int y = 20;
+        if (x > y) {
+
+            System.out.println("verdadeiro");
+        } else {
+            System.out.println("Mentira");
+        }
+        boolean chuva = false;
+        boolean sol = false;
+
+
+        if (chuva) {
+            System.out.println("Use o guarda chuva");
+        } else if (sol) {
+            System.out.println("Use o oculos escuros");
+        } else {
+            System.out.println("Pode sair normalmente");
+        }
+
+        int tempo = 16;
+
+        if (tempo < 12) {
+            System.out.println("Boa noite!.");
+        } else if (tempo < 18) {
+            System.out.println("Bom dia!");
+        } else {
+            System.out.println("Boa tarde!.");
+        }
+        //Em Java, abreviação if...else (operador ternário)
+
+        int hora = 12;
+        String resultado = (hora < 12) ? "Bom dia!" : "Boa tarde!";
+        System.out.println(resultado);
+
+
+            }
+        }
