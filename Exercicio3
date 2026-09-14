@@ -7,3 +7,11 @@ public class Exercicio3 {
         System.out.println("Tenha um bom dia!");
     }
 }
+
+
+        //Diferença de print e println
+        System.out.print("Olá, Mundo!");
+        System.out.println("Olá, Mundo!");
+
+    }
+}
