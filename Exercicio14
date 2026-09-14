@@ -1,0 +1,19 @@
+public class Exercicio15 {
+    public static void main(String[] args) {
+
+        //VERIFICAR TEMPERATURA
+        int temperatura = 30;
+        if (temperatura <=15) {
+            System.out.println("Esta frio");
+        }
+        else if (temperatura < 22) {
+            System.out.println("Temperatura esta boa");
+        }
+        else {
+            System.out.println("Esta esquentando muito");
+        }
+
+
+
+    }
+}
