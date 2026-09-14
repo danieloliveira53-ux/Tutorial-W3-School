@@ -1,0 +1,10 @@
+public class Exercicio5 {
+    public static void main(String[] args) {
+        //imprimindo numeros tambem e calculos matematicos
+        System.out.println(333333);
+        System.out.println(5+5+5+5+5);
+        System.out.println(9*8*7*2*3*4*1);
+        System.out.println(1110000/100/10/2);
+
+    }
+}
