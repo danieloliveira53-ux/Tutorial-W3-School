@@ -1,0 +1,13 @@
+public class Exercicio6 {
+    public static void main(String[] args) {
+        //Desafio Escreva seu nome e idade
+
+        String nome = "Daniel";
+        int idade = 36;
+
+        System.out.println("Meu nome é " + nome);
+        System.out.println("Minha idade é " + idade);
+
+
+    }
+}
