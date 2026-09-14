@@ -1,0 +1,11 @@
+public class Exercicio12 {
+    public static void main(String[] args) {
+        int a = 12;
+        int b = 24;
+        int total = a+b;
+        System.out.println("Otaltal de A+B é " + total);
+
+
+
+    }
+}
