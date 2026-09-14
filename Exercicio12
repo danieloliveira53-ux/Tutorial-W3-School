@@ -1,0 +1,29 @@
+public class Exercicio13 {
+    public static void main(String[] args) {
+
+        //Manipulação de String
+
+        String alfabeto = "abcdefghijklmnopqrstuvwxyz";
+        System.out.println(alfabeto.toLowerCase());
+        System.out.println(alfabeto.toUpperCase());
+
+        //Encontrando um caractere em uma string
+
+        String nome = "Daniel Silva Oliveira da Silva";
+        System.out.println(nome.indexOf("Silva"));
+
+        //Acessar um caractere em uma posição específica em uma string
+        int idade = 36;
+
+        System.out.println(nome.charAt(17));
+
+        //Comparando Cadeias de Caracteres
+
+        System.out.println(nome.equals(alfabeto));
+
+        //Concatenação em frases
+
+        System.out.println("O meu nome é " + nome + "e a minha idade é " + idade + " anos ");
+
+    }
+}
